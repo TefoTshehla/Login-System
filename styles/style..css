@@ -22,7 +22,7 @@ body{
 .container p{
   font-size: 22px;
   margin-bottom: 15px;
-  color: #170505;
+  color: #35c40e;
 }
 
 .add-style{
@@ -53,11 +53,16 @@ body{
 }
 
 .logbutton{
-  margin: 12px 15px 12px 240px;
-  display: flex;
-  flex-direction: column;
-  color: black;
-  font: bold;
-  padding: 10px 12px;
+  margin-top: 15px;
+  margin-left: 200px;
+  background: #28a745;
+  color: white;
+  padding: 12px 15px;
+  border: none;
   border-radius: 6px;
+  cursor: pointer;
+}
+
+.logbutton:hover {
+  background: #218838;
 }
