@@ -41,7 +41,12 @@ body{
   border: 1px solid #ccc;
 }
 
-.input-grid{
+.input-username{
+  border-radius: 6px;
+  padding: 8px;
+}
+
+.input-password{
   border-radius: 6px;
   padding: 8px;
 }
@@ -52,7 +57,7 @@ body{
   flex-direction: column;
 }
 
-.logbutton{
+.loginButton{
   margin-top: 15px;
   margin-left: 200px;
   background: #28a745;
