@@ -10,4 +10,4 @@ Prevents login with empty fields.
 Logout returns the form to its original state.
 Pure front-end; no server required.
 Easy to extend for real authentication in the future.
-![Login demo](login.png)
+![Login demo](Login.png)
