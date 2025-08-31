@@ -30,6 +30,9 @@ function renderLoginForm(){
         <button onclick="
         
         " class="loginButton">Login</button>
+        <a class="form-link" href="https://github.com/TefoTshehla/Registration-System.git">Register if you don't have an
+        account</a>
+
       </form>`
 
       const usernameInput = container.querySelector(".input-username");
